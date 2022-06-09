@@ -74,4 +74,6 @@ while true; do
     }
     k=$((k % 2 + 1))
     
+    
+    
 done
